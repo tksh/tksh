@@ -2,7 +2,7 @@
 
 Crafting unique artwork by defining its format.
 
-- Artwork: [pfpg(WIP)](https://pfpg.netlify.app)
+- Artwork: [pfpg](https://pfpg.pages.dev)
 - Format: [Straightlines](https://github.com/tksh/Straightlines)
 
 <!--
